@@ -1,0 +1,41 @@
+
+#header {
+	background-color: white;
+	display: inline;
+
+}
+
+
+
+.aboutme {
+
+background-color: #fcfefe;
+border-style: solid;
+width: 320px;
+padding: 10px;
+border: 5px solid gray;
+margin: 0; 
+font-family: Georgia;
+
+
+}
+
+#contact {
+
+background-color: #fcfefe;
+border-style: solid;
+width: 170px;
+padding: 10px;
+border: 5px solid gray;
+margin: 0; 
+float: right; 
+
+	}
+
+#footer {
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    background-color: #5a5a5a;
+}
+
