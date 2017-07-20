@@ -1,41 +1,96 @@
 
+body {
+
+background-image: url("../images/ep_naturalwhite.png");
+width: 960px;
+margin:0px;
+
+
+
+}
 #header {
-	background-color: white;
-	display: inline;
+	background-color: #ffffff;
+	width: 960px;
+	left:0px;
+	border-bottom: solid #85d5e0 2px;
+	
+
+}
+
+.boxName {
+	background-color: #85d5e0;
+	color: #ffffff;
+	width: 215px;
+	padding: 5px;
+	top:0px;
+	margin-left:80px;
 
 }
 
 
+h1 {
+
+	color:#ffffff;
+	text-align: center;
+	font-family: Georgia, serif;
+	font-size: 35px;
+
+}
+
+.navigation {
+
+	float: right;
+	margin-top:30px;
+	margin-right:43px;
+	color: #999a9b;
+	word-spacing: 10px;
+	font-family: Georgia;
+}
 
 .aboutme {
 
+position: relative;
 background-color: #fcfefe;
 border-style: solid;
-width: 320px;
+width: 450px;
 padding: 10px;
 border: 5px solid gray;
 margin: 0; 
 font-family: Georgia;
+top: 60px;
+margin-left: 80px;
 
 
 }
 
 #contact {
 
+position: relative;
 background-color: #fcfefe;
 border-style: solid;
-width: 170px;
+width: 300px;
+height: 120px;
 padding: 10px;
 border: 5px solid gray;
-margin: 0; 
-float: right; 
+margin-left: 600px;
+top: -237px;
+text-align: center;
+
+ 
 
 	}
 
 #footer {
-    height: 30px;
+    height: 100px;
     position: absolute;
     bottom: 0;
-    background-color: #5a5a5a;
+    background-color: #666666;
+    width: 960px;
+    text-align: center;
+    font-family: Georgia;
+    color: #999a9b;
+    border-top: solid #85d5e0 10px;
+
+
 }
 
